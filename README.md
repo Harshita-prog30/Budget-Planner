@@ -60,3 +60,11 @@ Student Developer | Exploring Full Stack Development
 Bootstrap / Custom CSS for styling
 
 Git and GitHub for version control
+
+
+## Installation & Setup
+
+1. Clone this repository…
+2. Go into the folder...
+3. Run `npm install` and `ng serve`.
+4. Open at `http://localhost:4200`.
