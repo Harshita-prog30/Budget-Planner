@@ -3,6 +3,7 @@ PROJECT SECREENSHOT [https://github.com/Harshita-prog30/Budget-Planner/blob/main
 
 
 Budget Planner
+Angular financial dashboard for managing income, expenses, tasks, and history
 
 Budget Planner is a web application built with Angular to help users manage their personal finances.
 It allows users to record income, track expenses, manage to-do tasks, view transaction history, and maintain a personal profile.
