@@ -33,7 +33,7 @@ Technology Stack
 
 Angular (TypeScript, HTML, CSS)
 
-PROJECT STRUCTURE
+## PROJECT STRUCTURE
 budget-planner/
  ┣ src/
  ┃ ┣ app/
@@ -48,7 +48,7 @@ budget-planner/
  ┣ angular.json
  ┗ README.md
 
-Future Enhancements
+## Future Enhancements
 
 User authentication (login and register)
 
