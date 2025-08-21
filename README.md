@@ -2,7 +2,9 @@
 <p align="center">
   <img src= "https://github.com/Harshita-prog30/Budget-Planner/blob/main/img.png?raw=true">
 </p>
-
+<p align="center">
+  <img src= "https://github.com/Harshita-prog30/Budget-Planner/blob/main/budget-planner.png?raw=true">
+</p>
 
 
 Budget Planner
