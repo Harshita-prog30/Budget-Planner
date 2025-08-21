@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src= "https://github.com/Harshita-prog30/Budget-Planner/blob/main/Screenshot%202025-08-20%20182903.png?raw=true">
+  <img src= "https://github.com/Harshita-prog30/Budget-Planner/blob/main/img.png?raw=true">
 </p>
 
 
